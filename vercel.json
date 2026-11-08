@@ -1,0 +1,1 @@
+{"rewrites":[{"source":"/Lvl-Dashboard","destination":"/index.html"},{"source":"/Lvl-Dashboard/(.*)","destination":"/index.html"}]}
