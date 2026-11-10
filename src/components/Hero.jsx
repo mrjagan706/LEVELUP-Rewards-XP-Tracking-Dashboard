@@ -1,4 +1,3 @@
-
 import { Chest } from './Art';
 import { Flame, ClipboardList, Zap, ArrowRight, Info as InfoIcon } from 'lucide-react';
 import { LEVELS, levelFor } from '../data/data';
